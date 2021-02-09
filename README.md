@@ -1,4 +1,4 @@
-# Unity-ARFoundation-echoAR-Face-Makeup
+# Unity-ARFoundation-echoAR-demo-Face-Makeup
 
 Simple face makeup demo with Unity, AR Foundation, and echoAR
 
