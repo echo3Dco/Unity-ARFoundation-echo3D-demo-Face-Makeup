@@ -20,7 +20,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 Make sure to use an **Alpha transparent texture** as a custom shader. The example texture contains eye shadows, eye liners, highlight, lipstick or other coloring. When running the app, it detects a face and overlays the face material. 
 
-To create a makeup texture on your own, open the *[.psd](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model/canonical_face_texture.psd)* file in the [model](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model) folder. This model is provided by Google [ARCore AugmentedFaces Demo](https://developers.google.com/ar/develop/developer-guides/creating-assets-for-augmented-faces)
+To create a makeup texture on your own, open the *[.psd](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model/canonical_face_texture.psd)* file in the [model](https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/model) folder. This model is provided by Google [ARCore Augmented Faces Demo](https://developers.google.com/ar/develop/developer-guides/creating-assets-for-augmented-faces)
 
 <img src="https://github.com/VivianVKJ/Unity-ARFoundation-echoAR-Face-Makeup/blob/main/demo/model.png" height=40% width=40%>
 
