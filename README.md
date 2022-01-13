@@ -26,7 +26,7 @@ To create a makeup texture on your own, open the *[.psd](./model/canonical_face_
 
 ## Learn more
 
-Refer to our [documentation](https://docs.echo3D.xyz/unity/) to learn more about how to use Unity and echo3D.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
 ## Support
 
