@@ -9,7 +9,7 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 ## Setup
 
 - Create a new Unity project.
-- Clone the [Unity-ARFoundation-echo3D](https://github.com/echo3Dco/Unity-ARFoundation-echo3D) sample code.
+- Clone the [Unity-ARFoundation-echo3D](https://github.com/echo3Dco/Unity-ARFoundation-echo3D-example) sample code.
 - Open the sample scene under `AR Foundation\Scenes\FaceTracking\FaceMesh.unity`.
 - [Set your API key](https://docs.echo3D.co/unity/using-the-sdk) in `echo3D.cs` inside the `echo3D\echo3D.prefab` using the the inspector.
 - Select `AR Session Origin` in the hierarchy. Double click `FaceMeshPrefab` under `AR Face Manager` in the inspector. Set `Material Size` to 1
